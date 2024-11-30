@@ -1,4 +1,4 @@
-package ru.tbank.jdbc.example.entity;
+package ru.tbank.servlet.example.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -8,6 +8,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 import java.util.List;
+
 
 @Getter
 @Setter
@@ -25,5 +26,6 @@ public class Teacher {
 
     private String degree;
 
-    private List<Long> studentIds;
+    private List<Student> students;
+
 }

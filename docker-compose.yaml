@@ -8,4 +8,3 @@ services:
       POSTGRES_PASSWORD: pass   # postgres password
     ports:
       - "5432:5432"             # postgres port
-

@@ -1,6 +1,6 @@
-package ru.tbank.jdbc.example.mapper;
+package ru.tbank.servlet.example.mapper;
 
-import ru.tbank.jdbc.example.entity.Student;
+import ru.tbank.servlet.example.entity.Student;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

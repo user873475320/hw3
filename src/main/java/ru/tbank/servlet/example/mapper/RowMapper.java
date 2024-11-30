@@ -1,4 +1,4 @@
-package ru.tbank.jdbc.example.mapper;
+package ru.tbank.servlet.example.mapper;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
